@@ -1,3 +1,20 @@
 body {
 	background-color: goldenrod;
 }
+
+body * {
+	border: 1px solid black;
+	background-color: rgb(192, 192, 192);
+}
+
+header, footer {
+	height: 130px;
+}
+
+section	{
+	height: 100px;
+}
+
+aside {
+	height: 100px;
+}
